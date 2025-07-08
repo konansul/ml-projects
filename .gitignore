@@ -1,5 +1,5 @@
-# macOS system files
+# Игнорируем системные и служебные файлы
 .DS_Store
-
-# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
