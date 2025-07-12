@@ -1,10 +1,8 @@
 # Machine Learning Projects – Theory and Practice
 
 This repository is a structured collection of machine learning algorithms, organized into separate folders by algorithm. Each algorithm has its own folder, and each folder contains the following:
-
-	•	The first notebook,(1.1, 2.1 and etc) introduces the algorithm, explaining the mathematical foundations, theoretical concepts, and implementation from scratch using Python. This serves as a learning resource for understanding the core principles behind the algorithm.
- 
-	•	Advanced – .ipynb, are notebooks that demonstrate the use of the algorithm in real-world or more complex scenarios. These notebooks often involve data preprocessing, model optimization, evaluation metrics, and visualization.
+- The first notebook,(1.1, 2.1 and etc) introduces the algorithm, explaining the mathematical foundations, theoretical concepts, and implementation from scratch using Python. This serves as a learning resource for understanding the core principles behind the algorithm.
+- Advanced – .ipynb, are notebooks that demonstrate the use of the algorithm in real-world or more complex scenarios. These notebooks often involve data preprocessing, model optimization, evaluation metrics, and visualization.
 
 ### Algorithms Covered
 	•	Linear Regression
