@@ -5,8 +5,6 @@ This repository is a structured collection of machine learning algorithms, organ
 	•	Advanced – .ipynb, are notebooks that demonstrate the use of the algorithm in real-world or more complex scenarios. These notebooks often involve data preprocessing, model optimization, evaluation metrics, and visualization.
 
 ### Algorithms Covered
-
-Some of the algorithms included in the repository:
 	•	Linear Regression
 	•	Logistic Regression
 
