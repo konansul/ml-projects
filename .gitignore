@@ -1,4 +1,3 @@
-# Игнорируем системные и служебные файлы
 .DS_Store
 .ipynb_checkpoints/
 .virtual_documents/
