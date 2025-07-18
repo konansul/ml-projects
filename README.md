@@ -7,8 +7,8 @@ This repository is a structured collection of machine learning algorithms, organ
 ### Algorithms Covered
 	•	Linear Regression
 	•	Logistic Regression
+	•	K-Nearest Neighbor (KNN) 
 	•	Support Vector Machines (SVM)
-      •	K-Nearest Neighbor (KNN)
 
 The main goal of this repository is to provide clear and concise theoretical explanations of core ML algorithms and bridge the gap between theory and practice by applying algorithms on real datasets in advanced projects.
 
