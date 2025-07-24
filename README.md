@@ -5,13 +5,13 @@ This repository is a structured collection of machine learning algorithms, organ
 - Advanced – .ipynb, are notebooks that demonstrate the use of the algorithm in real-world or more complex scenarios. These notebooks often involve data preprocessing, model optimization, evaluation metrics, and visualization.
 
 ### Algorithms Covered
-	•	Linear Regression
-	•	Logistic Regression
-	•	K-Nearest Neighbor (KNN) 
-	•	Support Vector Machines (SVM)
-    •   Decision Trees
-    •   Random Forest
-    •   Boosted Trees
+	•Linear Regression
+	•Logistic Regression
+	•K-Nearest Neighbor (KNN) 
+	•Support Vector Machines (SVM)
+    •Decision Trees
+    •Random Forest
+    •Boosted Trees
 
 The main goal of this repository is to provide clear and concise theoretical explanations of core ML algorithms and bridge the gap between theory and practice by applying algorithms on real datasets in advanced projects.
 
