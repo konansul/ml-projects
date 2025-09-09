@@ -1,4 +1,4 @@
-# Machine Learning Projects: Theory and Practice
+# Machine Learning Projects – Theory and Practice
 
 This repository is a structured collection of machine learning algorithms, organized into separate folders by algorithm. Each algorithm has its own folder, and each folder contains the following:
 - The first notebook in each folder, (1.1, 2.1 and etc) introduces the algorithm, explaining the mathematical foundations, theoretical concepts, and implementation from scratch using Python.
